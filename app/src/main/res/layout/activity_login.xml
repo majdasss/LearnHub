@@ -95,7 +95,7 @@
                 android:layout_gravity="center_horizontal"
                 android:visibility="invisible" />
 
-            <com.google.android.material.button.MaterialButton
+            <Button
                 android:id="@+id/btnSignIn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -104,9 +104,8 @@
                 android:paddingTop="10dp"
                 android:paddingEnd="20dp"
                 android:paddingBottom="20dp"
-                android:text="log in"
-                app:cornerRadius="10dp" />
-
+                android:text="log in" />
+            <!-- padding :ce qui est à l'interieur "rembourrage"-->
         </FrameLayout>
 
         <TextView
