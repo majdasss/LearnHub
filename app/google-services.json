@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134631515466",
+    "project_id": "learnhub-01",
+    "storage_bucket": "learnhub-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134631515466:android:dc0e3f8ea4b66e0739cdb3",
+        "android_client_info": {
+          "package_name": "com.example.learnhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw6zTb40KOlYqsxSvMQUm2e-vofPvOgnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
