@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearnHub"
         tools:targetApi="31">
+
         <activity
             android:name=".register"
             android:exported="false" />
